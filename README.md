@@ -8,6 +8,10 @@ Visualization of Spectroradiometer Data taken from ASD Spectroradiometer and Hyp
 Postdoctoral Research Geographer \
 United States Geological Survey
 
+**Prasad Thenkabail** \
+Research Geographer \
+United States Geological Survey
+
 **Isabella Mariotto** \
 Remote Sensing-GIS Scientist & Ecologist \
 Terra Sensing Lab LLC
