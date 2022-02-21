@@ -5,7 +5,7 @@ Visualization of Spectroradiometer Data taken from ASD Spectroradiometer and Hyp
 ## Attributions:
 
 **Itiya Aneece** \
-Postdoctoral Research Geographer \
+Research Geographer \
 United States Geological Survey
 
 **Prasad Thenkabail** \
