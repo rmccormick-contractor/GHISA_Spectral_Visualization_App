@@ -3,8 +3,8 @@
 
 # Data Attributions:
 
-Itiya Aneece, Postdoctoral Research Geographer
+Itiya Aneece, Postdoctoral Research Geographer \
 United States Geological Survey
 
-Isabella Mariotto, Remote Sensing-GIS Scientist & Ecologist
+Isabella Mariotto, Remote Sensing-GIS Scientist & Ecologist \
 Terra Sensing Lab LLC
