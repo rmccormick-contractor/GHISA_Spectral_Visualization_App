@@ -1,0 +1,31 @@
+name: hyper
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+#holoviz
+  - hvplot
+  - geoviews
+  - datashader
+  - fastparquet
+  - python-snappy
+#jupyter
+  - jupyter-server-proxy
+  - widgetsnbextension
+  - dask-labextension
+  - nodejs
+#xarray-related
+  - xarray
+  - intake-xarray
+  - dask
+  - zarr
+  - h5netcdf
+  - rioxarray
+#other 
+  - fsspec
+  - s3fs
+  - geemap
+  - geopy
+  - pip
+  - pip:
+    - pygeocoder
