@@ -3,7 +3,7 @@
 
 [![Open In AWS SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/https://colab.research.google.com/github/rmccormick-contractor/Hyperion-ASD-Visualization/blob/main/GHISA_Visualization.ipynb)
 
-Visualization of Spectroradiometer Data taken from ASD Spectroradiometer and Hyperion-EO1 satellite.
+Visualization of Spectroradiometer Data taken from ASD Spectroradiometer, Hyperion-EO1 satellite, DESIS, and PRISMA.
 ## Attributions:
 
 **Itiya Aneece** \
