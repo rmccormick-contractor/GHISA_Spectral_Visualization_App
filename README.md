@@ -6,7 +6,7 @@
 This application is created as part of the [Global Hyperspectral Imaging Spectral-library of Agricultural-Crops & Vegetation (GHISA)](https://www.usgs.gov/centers/western-geographic-science-center/science/global-hyperspectral-imaging-spectral-library) project. It allows users to pull data collected from different remote sensing platforms to build spectral profiles of agricultural crops. These data can be used for training and validation of machine learning classification models.
 
 ## Usage
-The application is designed to be user friendly and intuitive. Simply follow the instructions for each code block.
+The application is designed to be user friendly and intuitive. Simply follow the instructions for each code block in the order they are presented.
 
 ## Supported Sensors
 |Sensor|Range|Bandwith|No. Bands|Spatial Resolution|Temporal Resolution|Orbit|
